@@ -15,5 +15,6 @@ namespace AcessoBD.Data
             this.Database.EnsureCreated();
         }
         public DbSet<AcessoBD.Models.Pessoa> Pessoa { get; set; }
+        public DbSet<AcessoBD.Models.Veiculo> Veiculo { get; set; }
     }
 }
