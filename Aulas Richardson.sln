@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.30711.63
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula 1", "Aula 1\Aula 1.csproj", "{4C3F0C42-B0EA-47B3-B331-DFFE88F99E1B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AcessoBD", "AcessoBD\AcessoBD.csproj", "{41A4C5CD-8C48-44C9-A1D2-713FCBDC9A38}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AcessoBD", "AcessoBD\AcessoBD.csproj", "{41A4C5CD-8C48-44C9-A1D2-713FCBDC9A38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula AcessoBD 1toN", "Aula AcessoBD 1toN\Aula AcessoBD 1toN.csproj", "{B7F4611C-1C54-4847-A42D-EDB9429736A7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{41A4C5CD-8C48-44C9-A1D2-713FCBDC9A38}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{41A4C5CD-8C48-44C9-A1D2-713FCBDC9A38}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{41A4C5CD-8C48-44C9-A1D2-713FCBDC9A38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7F4611C-1C54-4847-A42D-EDB9429736A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7F4611C-1C54-4847-A42D-EDB9429736A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7F4611C-1C54-4847-A42D-EDB9429736A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7F4611C-1C54-4847-A42D-EDB9429736A7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
